@@ -57,7 +57,7 @@
 
 ## Description
 
-This is the first web page project, created as part of [The Odin Project](https://www.theodinproject.com/) curriculum. It covers HTML and CSS foundations.
+This is a modified version of the first web page project, created as part of [The Odin Project](https://www.theodinproject.com/) curriculum. It covers HTML and CSS foundations.
 
 You can view the full assignment [here](https://www.theodinproject.com/lessons/foundations-landing-page)
 
