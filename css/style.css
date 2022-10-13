@@ -74,4 +74,55 @@ ul {
 }
 
 
+/*-------WELCOME--------*/
 
+
+.main {
+    flex:1;
+}
+
+.welcome-area {
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content:space-evenly;
+    flex-basis:50%;
+    flex-wrap:wrap;
+    padding-bottom:70px;
+    gap:70px;
+    height:500px;
+    margin-top:150px;
+}
+
+.welcome-area .text h1 {
+    font-size:48px;
+    font-weight:bolder;
+    color:#B99F65;
+    text-shadow:
+    -1px -1px 0 #FFF,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.welcome .text p {
+    font-size:22px;
+    color:#000000;
+    margin-top:-30px;
+}
+
+.botton {
+    display:block;
+    color:#000000;
+    background:#B99F65;
+    border-radius: 5px;
+    border:none;
+    padding:8px 28px;
+    cursor:pointer;
+    height:40px;
+    width:110px;
+}
+
+.botton:hover {
+    color:#FFFFFF;
+    background: #B99F65;
+}
