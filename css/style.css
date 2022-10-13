@@ -54,7 +54,7 @@ header {
 
 .links {
     display:flex;
-    margin-right:130px;
+    margin-right:px;
 }
 
 .links a:hover {
@@ -126,3 +126,40 @@ ul {
     color:#FFFFFF;
     background: #B99F65;
 }
+
+
+/*-------BLUECONTAINERSECTION--------*/
+
+
+.bluecontainers {
+	display:flex;
+	justify-content:space-between;
+	gap:40px;
+}
+
+.images img {
+	width:auto;
+	height:300px;
+	margin-top:0px;
+}
+
+.bluecontainertitle {
+    font-size:48px;
+    color:#b99f65;
+    text-align:center;
+    text-shadow:
+	-1px -1px 0 #FFF,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.bluetext {
+    font-family:'Roboto', sans-serif;
+    font-size: 22px;
+    color: black;
+    margin-top:-50px;
+    margin-bottom:150px;
+}
+
+
