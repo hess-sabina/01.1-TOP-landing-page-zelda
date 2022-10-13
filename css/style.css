@@ -235,3 +235,22 @@ ul {
     color: white;
     background-color:#b99f65;
 }
+
+
+/*-------FOOTER--------*/
+
+footer {
+    background:rgba(0, 0, 0, 0.8);
+    color:#B99F65;
+    font-size:18px;
+    font-weight:50;
+    height:120px;
+}
+
+.footercontent {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:120px;
+}
+
