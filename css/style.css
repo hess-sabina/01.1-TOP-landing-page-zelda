@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
 
+
 /*------GENERAL-----*/
 
 * {
@@ -28,3 +29,49 @@ body {
     margin-left:auto;
     margin-right:auto;
 }
+
+
+/* -----HEADER SECTION----- */
+
+.headercontainer {
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    flex-wrap:wrap;
+}
+
+header {
+    background:rgba(0, 0, 0, 0.9);
+    height:150px;
+    position:sticky;
+    top:0;
+    z-index:999;
+}
+
+.logo img {
+    height:100px;
+}
+
+.links {
+    display:flex;
+    margin-right:130px;
+}
+
+.links a:hover {
+    color:#FFFFFF;
+}
+
+a {
+    margin-left:20px;
+    color:#B99F65;
+    font-size:25;
+    font-weight:bold;
+    text-decoration:none;
+}
+
+ul {
+    list-style:none;
+}
+
+
+
