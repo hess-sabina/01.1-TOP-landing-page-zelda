@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,300&display=swap');
+
+/*------GENERAL-----*/
+
+* {
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.body {
+    display:flex;
+    flex-direction:column;
+    min-height:100vh;
+    display:block;
+}
+
+body {
+    background-image: url(https://github.com/hess-sabina/01.1-TOP-landing-page-zelda/blob/main/img/Zelda-Background.jpeg?raw=true);
+    background-position:center;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100vh;
+}
+
+.headercontainer, .welcome, .bluecontainersection, .quotesection, .signupsection, .footercontent {
+    width:100%;
+    max-width:1300px;
+    margin-left:auto;
+    margin-right:auto;
+}
