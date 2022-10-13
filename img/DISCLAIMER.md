@@ -1,4 +1,4 @@
-I do not own any the copyright for the used images and mentioned text. All images and texts are for non-commercial and educational purpose only, in order to create a dummy web-page. Listed are the original sources of the images and text I used.
+I do not own any copyrights for the used images and mentioned text. All images and texts are for non-commercial and educational purpose only, in order to create a dummy web-page. Listed are the original sources of the images and text I used.
 
 
 Art Credits/source:
