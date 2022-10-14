@@ -69,7 +69,7 @@ You can view the full assignment [here](https://www.theodinproject.com/lessons/f
 
 ## Gallery
 
-▶️ <a href="" target="_blank">View Live Demo</a>
+▶️ <a href="https://hess-sabina.github.io/01.1-TOP-landing-page-zelda/" target="_blank">View Live Demo</a>
 
 #### Home page
 
