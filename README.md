@@ -73,14 +73,5 @@ You can view the full assignment [here](https://www.theodinproject.com/lessons/f
 
 #### Home page
 
-![Image of Project]()
-
-#### Content section
-
-![Image of Project]()
-
-#### Footer section
-
-![Image of Project]()
-
+![](https://github.com/hess-sabina/01.1-TOP-landing-page-zelda/blob/main/img/LandingPageZeldaPreview.png?raw=true)
 
